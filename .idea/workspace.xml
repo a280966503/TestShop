@@ -1,322 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdecc497-a031-4edb-8628-15ebfaacd63f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/ca/727c12d933863847dce4f8a4e203ab9f5766d09c7f3282ec0663b830591dbc20_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/ca/ca.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/msp/admincerts/Admin@example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/msp/cacerts/ca.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/msp/tlscacerts/tlsca.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/orderers/orderer.example.com/msp/admincerts/Admin@example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/orderers/orderer.example.com/msp/cacerts/ca.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/orderers/orderer.example.com/msp/keystore/987bdcb84caebc0f94658ea2bf7c5f3b2523e3c94f72f67de4b2dcd06d71f194_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/orderers/orderer.example.com/msp/signcerts/orderer.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/orderers/orderer.example.com/tls/ca.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/orderers/orderer.example.com/tls/server.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/orderers/orderer.example.com/tls/server.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/tlsca/863ef67802f336c1571c7f506226e22aecb2c541311d663372f22663ca546446_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/tlsca/tlsca.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/users/Admin@example.com/msp/admincerts/Admin@example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/users/Admin@example.com/msp/cacerts/ca.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/users/Admin@example.com/msp/keystore/b988fe121fccb5035a8aa1866b38694990b0863a816409aa9fcec6dd07d3760c_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/users/Admin@example.com/msp/signcerts/Admin@example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/users/Admin@example.com/msp/tlscacerts/tlsca.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/users/Admin@example.com/tls/ca.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/users/Admin@example.com/tls/client.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/ordererOrganizations/example.com/users/Admin@example.com/tls/client.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/ca/c02eab57578b7e53c518c5131e6361906bfe11dcfa9fdec7e69956fb52fcc69f_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/ca/ca.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/msp/admincerts/Admin@org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/msp/cacerts/ca.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/msp/tlscacerts/tlsca.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/msp/admincerts/Admin@org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/msp/cacerts/ca.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/msp/keystore/110e28f2014634bce794d8d3b1802dd6d58d4343be08d800370764854a15195a_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/msp/signcerts/peer0.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/msp/tlscacerts/tlsca.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/server.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/server.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/msp/admincerts/Admin@org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/msp/cacerts/ca.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/msp/keystore/1668f555ed1dd3b30e40f61b4044685e288a8a661a4d315bae25b793e8c98520_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/msp/signcerts/peer1.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/msp/tlscacerts/tlsca.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/tls/ca.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/tls/server.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/tls/server.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/tlsca/f65cee32366262250d364e5bee2ef5721385ea4f451a583f74189fa6ec13c5e7_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/tlsca/tlsca.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/admincerts/Admin@org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/cacerts/ca.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore/777562f73ecf2146dd6d2d4637b7e8c6f772d87dcde30900879d0aab246d0b84_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/signcerts/Admin@org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/tlscacerts/tlsca.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/Admin@org1.example.com/tls/ca.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/Admin@org1.example.com/tls/client.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/Admin@org1.example.com/tls/client.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/admincerts/User1@org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/cacerts/ca.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/keystore/1b8b2626698d40758a58ce4348ea29675c205fe1449ca0d19f7f3d82eaf79328_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/signcerts/User1@org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/tlscacerts/tlsca.org1.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/User1@org1.example.com/tls/ca.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/User1@org1.example.com/tls/client.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org1.example.com/users/User1@org1.example.com/tls/client.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/ca/230746b9c7dcea8e52932d1f7efea9d4e797c5e234d900d1f8c28087668ae395_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/ca/ca.org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/msp/admincerts/Admin@org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/msp/cacerts/ca.org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/msp/tlscacerts/tlsca.org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/msp/admincerts/Admin@org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/msp/cacerts/ca.org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/msp/keystore/6fe9d2ca1e1ba9d3214ec0f5b502d9982e2cc9b44e0b0fb0a7a281b74397a28d_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/msp/signcerts/peer0.org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/msp/tlscacerts/tlsca.org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/ca.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/server.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/server.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/tlsca/d3098e6d7b517529291598140c10055f9990479c1a82863e267ca72edfc645ee_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/tlsca/tlsca.org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/Admin@org2.example.com/msp/admincerts/Admin@org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/Admin@org2.example.com/msp/cacerts/ca.org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/Admin@org2.example.com/msp/keystore/740f67f37ab455a2352700d3af05e58997475e04dc5426d4a0faced0477665e1_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/Admin@org2.example.com/msp/signcerts/Admin@org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/Admin@org2.example.com/msp/tlscacerts/tlsca.org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/Admin@org2.example.com/tls/ca.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/Admin@org2.example.com/tls/client.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/Admin@org2.example.com/tls/client.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/User1@org2.example.com/msp/admincerts/User1@org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/User1@org2.example.com/msp/cacerts/ca.org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/User1@org2.example.com/msp/keystore/62ef6722dbcc2ae6a1edfe4a6abcbf9f38c01d1db71b608b6aa2e034cbf17578_sk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/User1@org2.example.com/msp/signcerts/User1@org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/User1@org2.example.com/msp/tlscacerts/tlsca.org2.example.com-cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/User1@org2.example.com/tls/ca.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/User1@org2.example.com/tls/client.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certs/peerOrganizations/org2.example.com/users/User1@org2.example.com/tls/client.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/pages-cooperation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/pages-register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/pages-sampling.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/pages-shoplogin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/kindeditor-all-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/kindeditor-all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/kindeditor-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/kindeditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/lang/ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/lang/ko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/lang/zh_CN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/lang/zh_TW.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/anchor/anchor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/autoheight/autoheight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/baidumap/baidumap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/baidumap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/baidumap/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/clearhtml/clearhtml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/code/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/code/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/code/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/emoticons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/100.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/101.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/102.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/103.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/104.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/105.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/106.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/107.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/108.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/109.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/110.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/111.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/112.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/113.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/114.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/115.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/116.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/117.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/118.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/119.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/120.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/121.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/122.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/123.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/124.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/125.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/126.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/127.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/128.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/129.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/130.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/131.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/132.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/133.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/134.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/17.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/19.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/21.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/22.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/23.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/24.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/25.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/26.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/27.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/28.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/29.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/30.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/31.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/32.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/33.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/34.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/35.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/36.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/37.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/38.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/39.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/40.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/41.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/42.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/43.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/44.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/45.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/46.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/47.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/48.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/49.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/51.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/52.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/53.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/54.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/55.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/56.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/57.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/58.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/59.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/60.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/61.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/62.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/63.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/64.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/65.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/66.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/67.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/68.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/69.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/70.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/71.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/72.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/73.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/74.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/75.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/76.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/77.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/78.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/79.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/80.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/81.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/82.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/83.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/84.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/85.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/86.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/87.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/88.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/89.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/90.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/91.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/92.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/93.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/94.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/95.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/96.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/97.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/98.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/99.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/emoticons/images/static.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/filemanager/filemanager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/filemanager/images/file-16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/filemanager/images/file-64.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/filemanager/images/folder-16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/filemanager/images/folder-64.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/filemanager/images/go-up.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/flash/flash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/image/image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/image/images/align_left.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/image/images/align_right.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/image/images/align_top.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/image/images/refresh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/insertfile/insertfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/lineheight/lineheight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/link/link.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/map/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/map/map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/media/media.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/multiimage/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/multiimage/images/select-files-en.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/multiimage/images/swfupload.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/multiimage/multiimage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/pagebreak/pagebreak.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/plainpaste/plainpaste.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/preview/preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/quickformat/quickformat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/table/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/template/html/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/template/html/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/template/html/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/template/template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/plugins/wordpaste/wordpaste.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/themes/common/anchor.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/themes/common/blank.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/themes/common/flash.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/themes/common/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/themes/common/media.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/themes/common/rm.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/themes/default/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/themes/default/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/themes/default/default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/themes/qq/editor.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/themes/qq/qq.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/kindeditor/themes/simple/simple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/admin/goods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/admin/goods_edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/admin/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/admin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/admin/password.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/admin/seller.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/cooperation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/sampling.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/shoplogin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/default.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/default.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/util.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou.exe" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou.exe" afterDir="false" />
-    </list>
+    <list default="true" id="fdecc497-a031-4edb-8628-15ebfaacd63f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -334,10 +19,10 @@
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -386,15 +71,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/controllers/default.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
-              <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-              <folding>
-                <element signature="e#21#58#0" expanded="true" />
-              </folding>
+              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -402,11 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/util.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
+            <state relative-caret-position="400">
               <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="e#21#49#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -447,7 +126,7 @@
       <find>specList</find>
     </findStrings>
   </component>
-  <component name="GOROOT" path="$PROJECT_DIR$/../../../go" />
+  <component name="GOROOT" path="D:\soft\go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -613,10 +292,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="323" y="0" width="1601" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="323" y="0" width="1601" height="1018" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16288124" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16482803" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -628,7 +306,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32932165" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.21467689" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2138009" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -994,23 +672,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/util.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="e#21#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/default.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
-          <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-          <folding>
-            <element signature="e#21#58#0" expanded="true" />
-          </folding>
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/util.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>

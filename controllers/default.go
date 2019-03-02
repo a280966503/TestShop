@@ -22,6 +22,7 @@ func (c *MainController) Get() {
 		configProvider := config.FromFile(path + "/conf/config.yaml")
 		sdk, err := fabsdk.New(configProvider)
 
+		fmt.Println("------------------------")
 		if err != nil {
 			log.Fatalf("create sdk fail:%s\n",err.Error())
 		}
