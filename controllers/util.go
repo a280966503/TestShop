@@ -1,5 +1,9 @@
 package controllers
 
+import (
+	"runtime"
+)
+
 func JsonResponse(flag bool,message string) map[string]interface{}  {
 	resp := make(map[string]interface{})
 
@@ -9,3 +13,11 @@ func JsonResponse(flag bool,message string) map[string]interface{}  {
 	return resp
 }
 
+func IsLinux() bool  {
+	switch runtime.GOOS {
+	case "linux":
+		return true
+	default:
+		return false
+	}
+}
