@@ -126,7 +126,7 @@ type TbTypeTemplate struct {
 
 func init() {
 	// set default database
-	orm.RegisterDataBase("default", "mysql", "root:root@tcp(127.0.0.1:3306)/pinyougoudb?charset=utf8")
+	orm.RegisterDataBase("default", "mysql", "root:root@tcp(192.168.3.4:3306)/pinyougoudb?charset=utf8")
 
 	// register model
 	orm.RegisterModel(
